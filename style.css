@@ -36,4 +36,5 @@ button:hover {
   bottom: 0px;
   display: flex;
   justify-content: center;
+  position: sticky;
 }
